@@ -44,9 +44,11 @@ subplot(3,2,5);
 plot(fw2);
 ```
 # OUTPUT:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d55c6501-ad7a-4e74-8801-265ff927521e" />
+<img width="765" height="725" alt="image" src="https://github.com/user-attachments/assets/18473478-28ff-4e97-b392-3ef1bfa5c9cb" />
 
-<img width="1316" height="1076" alt="image" src="https://github.com/user-attachments/assets/9fc64995-54d8-4383-98e0-4f66e2752d4e" />
+
+<img width="1516" height="1600" alt="WhatsApp Image 2026-06-07 at 7 48 23 PM" src="https://github.com/user-attachments/assets/bac9c73a-abfd-433a-af95-11c414f6aac0" />
+
 
 
 # RESULT :
